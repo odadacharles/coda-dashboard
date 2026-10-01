@@ -50,3 +50,12 @@ repositories:
       name: Geoffrey Nyaga
       github: geoffreynyaga
     contributor guide:
+
+  - owner: canonical
+    repo: launchpad-manual
+    labels:
+      - coda
+    maintainer(s):
+      - name: Charles Odada
+        github: odadacharles
+        contributor guide: https://ubuntu.com/docs/launchpad/contribute-to-our-docs/
